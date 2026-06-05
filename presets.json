@@ -1,0 +1,100 @@
+[
+  {
+    "name": "OnePlus Nord 4",
+    "colors": [
+      "#042014",
+      "#277662",
+      "#79B2A4",
+      "#5CB5DB",
+      "#8AC0D5",
+      "#0F3A3D"
+    ]
+  },
+  {
+    "name": "Neon Aurora",
+    "colors": [
+      "#00FFCC",
+      "#0099FF",
+      "#7F00FF"
+    ]
+  },
+  {
+    "name": "Peach Blossom",
+    "colors": [
+      "#FFFF5E62",
+      "#FFFF9966"
+    ]
+  },
+  {
+    "name": "Deep Blue",
+    "colors": [
+      "#0F2027",
+      "#203A43",
+      "#2C5364"
+    ]
+  },
+  {
+    "name": "Cyberpunk",
+    "colors": [
+      "#F107A3",
+      "#7B2CBF",
+      "#00F5FF"
+    ]
+  },
+  {
+    "name": "Solar Flare",
+    "colors": [
+      "#F12711",
+      "#F5AF19"
+    ]
+  },
+  {
+    "name": "ESC 2024",
+    "colors": [
+      "#F0157E",
+      "#E84800",
+      "#F5C200"
+    ]
+  },
+  {
+    "name": "ESC 2024 Alt",
+    "colors": [
+      "#2ABFA8",
+      "#85C420",
+      "#F0D000"
+    ]
+  },
+  {
+    "name": "ESC 2024 Alt 2",
+    "colors": [
+      "#00AECB",
+      "#8040B8",
+      "#E03898"
+    ]
+  },
+  {
+    "name": "ESC 2024 Alt 3",
+    "colors": [
+      "#00B8D4",
+      "#2E9EE8",
+      "#CC10B8"
+    ]
+  },
+  {
+    "name": "ESC 2024 Alt 4",
+    "colors": [
+      "#E86898",
+      "#E88030",
+      "#F0C030",
+      "#F0AA70"
+    ]
+  },
+  {
+    "name": "ESC 2024 Alt 5",
+    "colors": [
+      "#6040D8",
+      "#A81890",
+      "#E850B0"
+    ]
+  }
+]
