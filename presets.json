@@ -1,100 +1,19 @@
 [
-  {
-    "name": "OnePlus Nord 4",
-    "colors": [
-      "#042014",
-      "#277662",
-      "#79B2A4",
-      "#5CB5DB",
-      "#8AC0D5",
-      "#0F3A3D"
-    ]
-  },
-  {
-    "name": "Neon Aurora",
-    "colors": [
-      "#00FFCC",
-      "#0099FF",
-      "#7F00FF"
-    ]
-  },
-  {
-    "name": "Peach Blossom",
-    "colors": [
-      "#FFFF5E62",
-      "#FFFF9966"
-    ]
-  },
-  {
-    "name": "Deep Blue",
-    "colors": [
-      "#0F2027",
-      "#203A43",
-      "#2C5364"
-    ]
-  },
-  {
-    "name": "Cyberpunk",
-    "colors": [
-      "#F107A3",
-      "#7B2CBF",
-      "#00F5FF"
-    ]
-  },
-  {
-    "name": "Solar Flare",
-    "colors": [
-      "#F12711",
-      "#F5AF19"
-    ]
-  },
-  {
-    "name": "ESC 2024",
-    "colors": [
-      "#F0157E",
-      "#E84800",
-      "#F5C200"
-    ]
-  },
-  {
-    "name": "ESC 2024 Alt",
-    "colors": [
-      "#2ABFA8",
-      "#85C420",
-      "#F0D000"
-    ]
-  },
-  {
-    "name": "ESC 2024 Alt 2",
-    "colors": [
-      "#00AECB",
-      "#8040B8",
-      "#E03898"
-    ]
-  },
-  {
-    "name": "ESC 2024 Alt 3",
-    "colors": [
-      "#00B8D4",
-      "#2E9EE8",
-      "#CC10B8"
-    ]
-  },
-  {
-    "name": "ESC 2024 Alt 4",
-    "colors": [
-      "#E86898",
-      "#E88030",
-      "#F0C030",
-      "#F0AA70"
-    ]
-  },
-  {
-    "name": "ESC 2024 Alt 5",
-    "colors": [
-      "#6040D8",
-      "#A81890",
-      "#E850B0"
-    ]
-  }
+  { "name": "OnePlus Nord 4", "colors": ["#042014", "#277662", "#79B2A4", "#5CB5DB", "#8AC0D5", "#0F3A3D"], "category": "Community" },
+  { "name": "Neon Aurora", "colors": ["#00FFCC", "#0099FF", "#7F00FF"], "category": "Community" },
+  { "name": "Peach Blossom", "colors": ["#FFFF5E62", "#FFFF9966"], "category": "Community" },
+  { "name": "Deep Blue", "colors": ["#0F2027", "#203A43", "#2C5364"], "category": "Community" },
+  { "name": "Cyberpunk", "colors": ["#F107A3", "#7B2CBF", "#00F5FF"], "category": "Community" },
+  { "name": "Solar Flare", "colors": ["#F12711", "#F5AF19"], "category": "Community" },
+  { "name": "ESC 2024 I", "colors": ["#F0157E", "#E84800", "#F5C200"], "category": "Eurovision Song Contest 2024" },
+  { "name": "ESC 2024 II", "colors": ["#2ABFA8", "#85C420", "#F0D000"], "category": "Eurovision Song Contest 2024" },
+  { "name": "ESC 2024 III", "colors": ["#00AECB", "#8040B8", "#E03898"], "category": "Eurovision Song Contest 2024" },
+  { "name": "ESC 2024 IV", "colors": ["#00B8D4", "#2E9EE8", "#CC10B8"], "category": "Eurovision Song Contest 2024" },
+  { "name": "ESC 2024 V", "colors": ["#E86898", "#E88030", "#F0C030", "#F0AA70"], "category": "Eurovision Song Contest 2024" },
+  { "name": "ESC 2024 VI", "colors": ["#6040D8", "#A81890", "#E850B0"], "category": "Eurovision Song Contest 2024" },
+  { "name": "Vice Sunset", "colors": ["#2B1B4D", "#6B4FA0", "#E88BB5", "#FFB38A", "#FFE1C4"], "category": "Grand Theft Auto VI" },
+  { "name": "Ocean Drive", "colors": ["#14606B", "#3DB8C9", "#8FD3E8", "#FFD6A5", "#FF7EB6"], "category": "Grand Theft Auto VI" },
+  { "name": "Neon Pier", "colors": ["#0F2A3A", "#1E9FB0", "#FF5DA2", "#D8A7FF", "#F7F0FF"], "category": "Grand Theft Auto VI" },
+  { "name": "Palm Dusk", "colors": ["#1C1433", "#4A2F7A", "#B45FA8", "#FF9E7A", "#FFD9B0"], "category": "Grand Theft Auto VI" },
+  { "name": "Lowrider Heat", "colors": ["#3A0F2B", "#D6336C", "#FF8A5B", "#FFC8A2", "#2D2A55"], "category": "Grand Theft Auto VI" }
 ]
