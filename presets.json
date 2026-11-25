@@ -16,10 +16,10 @@
   { "name": "Neon Pier", "colors": ["#0F2A3A", "#1E9FB0", "#FF5DA2", "#D8A7FF", "#F7F0FF"], "category": "Grand Theft Auto VI" },
   { "name": "Palm Dusk", "colors": ["#1C1433", "#4A2F7A", "#B45FA8", "#FF9E7A", "#FFD9B0"], "category": "Grand Theft Auto VI" },
   { "name": "Lowrider Heat", "colors": ["#3A0F2B", "#D6336C", "#FF8A5B", "#FFC8A2", "#2D2A55"], "category": "Grand Theft Auto VI" },
-  { "name": "Orchid Coral", "colors": ["#9B1E29", "#B54844", "#B75D4C", "#BE6E55", "#B02D39", "#C4825E"], "category": "Bloom (Pixel 6 Pro)" },
-  { "name": "Fritillaria Green", "colors": ["#8A9949", "#6F842D", "#58681D", "#9BA75D", "#7D8B35", "#AFB679"], "category": "Bloom (Pixel 6 Pro)" },
-  { "name": "Sedum Blush", "colors": ["#563D33", "#8F534F", "#7F6D4D", "#AA6E66", "#BC8B79", "#8F855C"], "category": "Bloom (Pixel 6 Pro)" },
-  { "name": "Hellebore Plum", "colors": ["#301F22", "#4A3637", "#402A2D", "#594342", "#3C2224", "#715A51"], "category": "Bloom (Pixel 6 Pro)" },
-  { "name": "Phalaenopsis Mist", "colors": ["#93A1A2", "#A6AEAC", "#BAADB2", "#83848B", "#BFB9BD", "#ACA2A8"], "category": "Bloom (Pixel 6 Pro)" },
-  { "name": "Pincushion Gold", "colors": ["#C48645", "#D09452", "#7C4E1F", "#BC7633", "#A17136", "#DBA462"], "category": "Bloom (Pixel 6 Pro)" }
+  { "name": "Cattleya Orchid", "colors": ["#9B1E29", "#B54844", "#B75D4C", "#BE6E55", "#B02D39", "#C4825E"], "category": "Bloom (Pixel 6 Pro)" },
+  { "name": "Persian Lily", "colors": ["#8A9949", "#6F842D", "#58681D", "#9BA75D", "#7D8B35", "#AFB679"], "category": "Bloom (Pixel 6 Pro)" },
+  { "name": "Echeveria Blue Prince", "colors": ["#563D33", "#8F534F", "#7F6D4D", "#AA6E66", "#BC8B79", "#8F855C"], "category": "Bloom (Pixel 6 Pro)" },
+  { "name": "Hellebores", "colors": ["#301F22", "#4A3637", "#402A2D", "#594342", "#3C2224", "#715A51"], "category": "Bloom (Pixel 6 Pro)" },
+  { "name": "Moth Orchid", "colors": ["#93A1A2", "#A6AEAC", "#BAADB2", "#83848B", "#BFB9BD", "#ACA2A8"], "category": "Bloom (Pixel 6 Pro)" },
+  { "name": "Pincushion Protea", "colors": ["#C48645", "#D09452", "#7C4E1F", "#BC7633", "#A17136", "#DBA462"], "category": "Bloom (Pixel 6 Pro)" }
 ]
