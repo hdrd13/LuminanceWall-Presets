@@ -15,7 +15,7 @@
   { "name": "Ocean Drive", "colors": ["#14606B", "#3DB8C9", "#8FD3E8", "#FFD6A5", "#FF7EB6"], "category": "Grand Theft Auto VI" },
   { "name": "Neon Pier", "colors": ["#0F2A3A", "#1E9FB0", "#FF5DA2", "#D8A7FF", "#F7F0FF"], "category": "Grand Theft Auto VI" },
   { "name": "Palm Dusk", "colors": ["#1C1433", "#4A2F7A", "#B45FA8", "#FF9E7A", "#FFD9B0"], "category": "Grand Theft Auto VI" },
-  { "name": "Lowrider Heat", "colors": ["#3A0F2B", "#D6336C", "#FF8A5B", "#FFC8A2", "#2D2A55"], "category": "Grand Theft Auto VI" }
+  { "name": "Lowrider Heat", "colors": ["#3A0F2B", "#D6336C", "#FF8A5B", "#FFC8A2", "#2D2A55"], "category": "Grand Theft Auto VI" },
   { "name": "Orchid Coral", "colors": ["#9B1E29", "#B54844", "#B75D4C", "#BE6E55", "#B02D39", "#C4825E"], "category": "Bloom (Pixel 6 Pro)" },
   { "name": "Fritillaria Green", "colors": ["#8A9949", "#6F842D", "#58681D", "#9BA75D", "#7D8B35", "#AFB679"], "category": "Bloom (Pixel 6 Pro)" },
   { "name": "Sedum Blush", "colors": ["#563D33", "#8F534F", "#7F6D4D", "#AA6E66", "#BC8B79", "#8F855C"], "category": "Bloom (Pixel 6 Pro)" },
